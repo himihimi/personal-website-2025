@@ -1,7 +1,9 @@
 export default function Home() {
   return (
-    <h1 className="text-3xl font-bold">
-      not contact!
-    </h1>
+    <>
+      <div className="text-center pt-12">
+        <h1 className="text-4xl font-bold mb-6">No contact haha!</h1>
+      </div>
+    </>
   )
 }
